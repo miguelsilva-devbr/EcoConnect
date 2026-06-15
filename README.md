@@ -2,9 +2,11 @@
 Aplicativo para denúncias ambientais e mobilização social.
 
 Problema
+
 Muitas pessoas encontram problemas ambientais em suas cidades (lixo irregular, esgoto a céu aberto, queimadas, descarte de entulho, poluição de rios), mas não sabem onde denunciar nem conseguem acompanhar a resolução.
 
 Solução
+
 O EcoConnect permite que qualquer cidadão:
 ->Registre denúncias com foto e localização;
 ->Acompanhe o status da denúncia;
@@ -12,6 +14,6 @@ O EcoConnect permite que qualquer cidadão:
 ->Participe de ações ambientais;
 ->Receba notícias e alertas ambientais.
 
-Autor: Miguel Silva
-
 Prototipo: https://www.figma.com/make/r318kAw9xEk06p87PBRUsa/EcoConnect-mobile-app-prototype?code-node-id=0-9&p=f&t=cSzoDYlJNfmnDPfA-0&fullscreen=1
+
+Autor: Miguel Silva
