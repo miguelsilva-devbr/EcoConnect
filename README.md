@@ -19,6 +19,6 @@ O EcoConnect permite que qualquer cidadão:
 
 ->Receba notícias e alertas ambientais.
 
-Prototipo: https://www.figma.com/make/r318kAw9xEk06p87PBRUsa/EcoConnect-mobile-app-prototype?code-node-id=0-9&p=f&t=cSzoDYlJNfmnDPfA-0&fullscreen=1
+Prototipo: https://www.figma.com/make/r318kAw9xEk06p87PBRUsa/EcoConnect-mobile-app-prototype?code-node-id=0-9&p=f&fullscreen=1
 
 Autor: Miguel Silva
